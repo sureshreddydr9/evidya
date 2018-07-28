@@ -1,0 +1,11 @@
+
+public class Primitive2Wrapper {
+
+	public static void main(String[] args) {
+		int i =20;
+		Integer obj = Integer.valueOf(i);
+		System.out.println(i+ "" +obj);
+
+	}
+
+}

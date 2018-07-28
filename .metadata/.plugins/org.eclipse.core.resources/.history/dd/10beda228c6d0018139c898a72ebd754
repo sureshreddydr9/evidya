@@ -1,0 +1,15 @@
+
+public class Wrapper2Primitive {
+
+	public static void main(String[] args) {
+		
+		//Integer obj = new Integer(100);//creating obj value
+		Integer obj = Integer.valueOf(100);
+		Integer obj2 = Integer.valueOf(200);
+		//converting obj to primitive
+		//int i =obj.intValue();
+		System.out.println(i+ " " +obj);
+		System.out.println(i+" "+obj2);
+	}
+
+}

@@ -1,0 +1,19 @@
+package collections;
+
+import java.util.ArrayList;
+
+public class List {
+
+	public static void main(String[] args) {
+		ArrayList<String> names = new  ArrayList<String>();
+		names.add("suresh");
+		names.add("ramesh");
+		names.add("anil");
+		names.add("hari");
+		names.add("sonu");
+
+		
+
+	}
+
+}

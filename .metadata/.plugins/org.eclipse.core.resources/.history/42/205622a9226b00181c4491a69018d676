@@ -1,0 +1,15 @@
+
+public class ListExample {
+
+	public static void main(String[] args) {
+		Arraylist<string> names[] = new Arraylist<string>();
+		 
+names.add("suresh");
+names.add("suresh");
+names.add("suresh");
+names.add("suresh");
+for(Arraylist string:names)
+
+	}
+
+}

@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class TestOddEven {
+
+	private static Scanner input;
+	private static Scanner input2;
+
+	public static void main(String[] args) {
+		 int num;
+		System.out.println("enter a number");
+	input2 = new Scanner(System.in);
+num=input2.nextInt();
+if(num%2==0)
+	System.out.println("num is even");
+	
+else
+		
+		System.out.println("num is odd");
+		
+	}
+	}
+
